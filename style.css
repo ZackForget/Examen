@@ -72,5 +72,8 @@ p{
     grid-template-rows: repeat(31, 1fr); 
     border: 1px solid;
 }
+#grilleevenement p{
+    border: 1px solid black;
+}
 
 

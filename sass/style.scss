@@ -96,10 +96,3 @@
 /*--------------------------------------------------------------
 # Media
 --------------------------------------------------------------*/
-//@import "media/media";
-#grilleevenement{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(31, 1fr); 
-    border: 1px solid;
-}
